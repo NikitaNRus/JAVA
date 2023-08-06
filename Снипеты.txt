@@ -1,0 +1,9 @@
+class = public class program
+main = public static void main(String[] args)
+sysout = System.out.println("bye world");
+
+есть классы обертки:
+int - Integer
+float - Float
+double - Double
+boolean - Boolean
